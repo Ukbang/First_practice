@@ -6,3 +6,7 @@
 ###### unit 19 study
 ###### unit 20 study
 ###### unit 21 study
+###### unit 29 study �함수
+###### 함수 code def(정이�정의)
+###### def a(a,b)
+###### print(a+b)
