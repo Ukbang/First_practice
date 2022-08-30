@@ -23,3 +23,5 @@
 ###### multiprocessing (.Pool(processes = 2) use 2, .Pool(processes = 4) use 4 prosess
 ###### (lambda x,y : x+y)(a,b)
 ###### (lambda input : return)(input)
+###### unit 30 study
+###### unit 31 study (lambda)
