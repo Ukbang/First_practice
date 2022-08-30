@@ -18,5 +18,4 @@
 ###### yield(i,j) code
 ###### try:
 ###### except: (error)
-import item (module)
-import time (module)
+###### import time (module)
