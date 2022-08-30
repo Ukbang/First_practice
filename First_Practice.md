@@ -23,3 +23,5 @@
 ###### import multiprocessing (module)
 ###### multiprocessing (if __name__ == '__main__':) == start point
 ###### multiprocessing (.Pool(processes = 2) use 2, .Pool(processes = 4) use 4 prosess
+###### (lambda x,y : x+y)(a,b)
+###### (lambda input : return)(input)
