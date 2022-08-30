@@ -15,3 +15,8 @@
 ###### 22.08.30 10.12 --------------------------------------------------
 ###### LMS start
 ###### 22.08.30 LMS = Pythonic
+###### yield(i,j) code
+###### try:
+###### except: (error)
+import item (module)
+import time (module)
